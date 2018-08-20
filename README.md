@@ -1,1 +1,1 @@
-# MySublimeTextPotable
+# MySublimeTextPortable
